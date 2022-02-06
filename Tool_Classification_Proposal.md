@@ -34,8 +34,10 @@ The target of project is to predict which category a picture belongs to.
 
 
 - Are you planning in advance to need or use additional tools beyond those required?
+
 To be decided.
 
 ### MVP Goal:
 - What would a minimum viable product (MVP) look like for this project?
+
 A basic CNN model.
