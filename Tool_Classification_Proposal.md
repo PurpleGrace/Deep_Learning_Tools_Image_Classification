@@ -10,7 +10,7 @@
 
 - Who is your client and how will that client benefits from exploring this question or building this model/system?
 
-  My husband. If possible, all DIY experts and mechanical tool fans. The tool image classification functionality will make the platform user friendly and encourage more people to share and use the platfrom.
+  My husband. If possible, all DIY experts and mechanical tool fans. The tool image classification function will make the platform user friendly and encourage more people to share and use the platform.
 
 
 
