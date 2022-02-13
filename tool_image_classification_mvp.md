@@ -9,5 +9,10 @@ My first model is convolutional neural network(CNN) with an accuracy of .516.The
 
 I also tried transfer learning model with Xception. When disable top layer and trainable parameters, the accuracy for test dataset is .749
 
+- accuracy : 0.7491228070175439
+- recall : 0.8067679579119761
+- precision : 0.7809935342601771
+- f1 : 0.7914545988377154
+
 
 For the next step, I will try to use other transfer learning models like VGG16. Will also try to tune hyper-parameters to improve model performance.
